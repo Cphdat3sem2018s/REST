@@ -40,6 +40,13 @@ If you need more in-depth information (in later projects for example), jersey
 (the JAX implementation we use) has a user guide:
   * [jersey user guide](https://jersey.github.io/documentation/latest/index.html)
 
+After the dependency confusion in the ORM week, I'm just going to state it here:
+we use two dependencies when creating RESTful webservices:
+  * org.glassfish.jersey.bindles: jax-rs-ri  
+    For the JAX-RS implementation we use (jersey)
+  * com.google.code.gson: gson  
+    For serializing and deserializing java objects to/from JSON.
+
 <!--
 - [JAX-RS Intro](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=096689c5617a1453786e2401a34858af8&authkey=AUj8EbepY-ohhgVLk3Z2klU) 
 
@@ -73,6 +80,7 @@ Read:
     [here](http://docs.oracle.com/javaee/7/api/javax/ws/rs/core/Response.html).  
     Do not read through this, but use it as needed. It may be helpful to have
     Looked the method summary over briefly.
+
 ## Exercises 
 
 ### A word on difficulty levels:
