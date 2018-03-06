@@ -94,12 +94,15 @@ grades, but can help you in two ways:
      focus on the green and yellow exercises, and come back to the red ones
      later if possible.
 
-<!--
 | Level | Expectation |
 | ------ | ----------- |
-| Green | Ex1.1-5 Ex2.1-2, Ex2.4 Ex2.5 (except c) Ex3|
-| Yellow | Ex1.6 Ex2.3 (except d.3) Ex2.5.c.1|
-| Red | Ex1.7 Ex2.3.d Ex2.5.c.2|
+| Green | |
+| Yellow ||
+| Red | |
+
+  * [Exercise Day1](https://docs.google.com/document/d/1jN5Kfo8jdYgcBxYML6WBY_BPpdBQJbVibhU0FcnpI2k/edit?usp=sharing) Rest principles.
+
+<!--
  
   * [Exercises Day-1](https://docs.google.com/document/d/1zezTIruAiSkhhNCRHJh4EYOcf_mgMblGs6U_XmQ3vp4/edit?usp=sharing) (Basic thread creation and raceconditions)
   * [Exercises Day-2](https://docs.google.com/document/d/1A3rBzbbppVZKx-YrGJKWdgsWKs8xNrTR2BeG7zVu6hg/edit?usp=sharing) (Producer/Consumer and Deadlocks)
