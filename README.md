@@ -42,13 +42,20 @@ If you need more in-depth information (in later projects for example), jersey
 
 After the dependency confusion in the ORM week, I'm just going to state it here:
 we use two dependencies when creating RESTful webservices:
-  * org.glassfish.jersey.bindles: jax-rs-ri  
+  * org.glassfish.jersey.bundles: jax-rs-ri  
     For the JAX-RS implementation we use (jersey)
   * com.google.code.gson: gson  
     For serializing and deserializing java objects to/from JSON.
 
-Sildes:
+Lecture materials:
   * [slides](Day1/slides.pdf)
+  * [Demo](https://github.com/Cphdat3sem2018s/RestDemo18/)
+
+For those who asked, Christian made [this video](https://www.twitch.tv/videos/172198991) going through the JAX setup and implementation of a small service.
+The steps boil down to:
+  1. Create a new Maven web application
+  2. Add the jax-rs-ri dependency (and the gson dependency if you need it)
+  3. Create a new "restful web service from pattern"
 
 <!--
 - [JAX-RS Intro](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=096689c5617a1453786e2401a34858af8&authkey=AUj8EbepY-ohhgVLk3Z2klU) 
