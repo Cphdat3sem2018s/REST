@@ -47,6 +47,9 @@ we use two dependencies when creating RESTful webservices:
   * com.google.code.gson: gson  
     For serializing and deserializing java objects to/from JSON.
 
+Sildes:
+  * [slides](Day1/slides.pdf)
+
 <!--
 - [JAX-RS Intro](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=096689c5617a1453786e2401a34858af8&authkey=AUj8EbepY-ohhgVLk3Z2klU) 
 
