@@ -104,36 +104,17 @@ grades, but can help you in two ways:
      focus on the green and yellow exercises, and come back to the red ones
      later if possible.
 
-| Level | Expectation |
-| ------ | ----------- |
-| Green | |
-| Yellow ||
-| Red | |
+The color-coding will be a bit different this week:  
+Everyone is supposed to be able to complete all the assignments, but yellows may
+skip 1 assignment in the studypoint exercise (any one assignment except the
+exam-preparation\_REST_JSON exercise)
+Greens may skip any single assignment of their choosing.
+
 
   * [Exercise Day1](https://docs.google.com/document/d/1jN5Kfo8jdYgcBxYML6WBY_BPpdBQJbVibhU0FcnpI2k/edit?usp=sharing) Rest principles.
+  * [Exercise Day2](https://docs.google.com/document/d/1KkBqVkIZnG5cwAs7TtxNPA0syOXoTqC-wRk2TEyLbzg/edit?usp=sharing) REST api with DTOs
+  * [Exercise Day3](https://docs.google.com/document/d/1VD-_3QHWrP-asOArc786JGAtlVkjhu6Iaj8UHfWByyg/edit?usp=sharing) Error handling
+  * [StudyPoint Exercise](https://docs.google.com/document/d/1aqJx93Y9fROeYq6xbneWoBstVeDXIn00vimT0AWqaPk/edit?usp=sharing)
 
-<!--
- 
-  * [Exercises Day-1](https://docs.google.com/document/d/1zezTIruAiSkhhNCRHJh4EYOcf_mgMblGs6U_XmQ3vp4/edit?usp=sharing) (Basic thread creation and raceconditions)
-  * [Exercises Day-2](https://docs.google.com/document/d/1A3rBzbbppVZKx-YrGJKWdgsWKs8xNrTR2BeG7zVu6hg/edit?usp=sharing) (Producer/Consumer and Deadlocks)
-  * [Exercises Day-3](https://docs.google.com/document/d/1AkC59GQm5sbwWpKkideE9kI9KmbscIwKOygn9b_FJMU/edit?usp=sharing) (Using an executor service)
-  * [StudyPoint Exercise](https://docs.google.com/document/d/1_joY_2_fkswWzPwWUmfYYL2GXpWs23vfiOqXwMqiqmI/edit?usp=sharing)
-  -->
-<!--
-
-[this guide](https://docs.google.com/document/d/1TnPFlZjl8phGqROQB0syUnSJQiaDASZya3gv8qK2qcI/edit?usp=sharing) contains info on how to access logs on deployed webservices
-## Exercises 
-[Exercise - REST Quotes](https://drive.google.com/open?id=13iWLS-XQZLtalNf-6ER3uJwyaPy0rw-OACC7Z6Tv7N8)<br>
-[Exercise - REST Quotes ErrorHandling](https://drive.google.com/open?id=1R8w8CfN12ZHJAqb7nK9ZApsqDTMZsIRBvHJSc1m9cPY)<br>
-[Exercise - REST Persons](https://drive.google.com/open?id=10UpxEHPBtdMpnlwVjVI-wNkoEAuoglD2HY_ofKo5yxI)<br>
-[Exercise - REST Persons ErrorHandling](https://drive.google.com/open?id=1VD-_3QHWrP-asOArc786JGAtlVkjhu6Iaj8UHfWByyg)<br>
-[Exercise - REST Digital Ocean](https://drive.google.com/open?id=1D92Eynuh4YmIttOUWJtgmcWiTl9t1hWFdsJaYQgKI_E)<br>
-[Exercise - REST RestAssured GettingStarted](https://drive.google.com/open?id=13JAp6RUOozBKfK5-Cxr8L2z49wypqb2_N38XcmtFRtM)<br>
-[Exercise - REST RestAssured Continued](https://drive.google.com/open?id=1mMnFJgoCo2_Lgomwckz8RDttu9VV4a-_SE2xoGQOk5Y)
-
-## Study point exercises
-[Study point exercises](https://drive.google.com/open?id=1aqJx93Y9fROeYq6xbneWoBstVeDXIn00vimT0AWqaPk)
-
--->
-<!--
--->
+You _may_ find this helpful:
+  * [this guide](https://docs.google.com/document/d/1TnPFlZjl8phGqROQB0syUnSJQiaDASZya3gv8qK2qcI/edit?usp=sharing) contains info on how to access logs on deployed webservices
