@@ -21,7 +21,7 @@ Remember to install [Postman](https://www.getpostman.com/)
 
 ### Day2 - Continuation from day 1, and data-transfer objects (DTOs)
 
-### Day3 - Errorhandling with REST, and deployment to Digital Ocean
+### Day3 - Errorhandling with REST
 
 ## Resources: 
 
@@ -75,7 +75,7 @@ A pretty indept tutorial can be [found
 here](https://developers.google.com/web/updates/2015/03/introduction-to-fetch)
 -->
 
-### Day3 - Errorhandling with REST, and deployment to Digital Ocean
+### Day3 - Errorhandling with REST
 
 We map java exceptions to http error responses, as well as create responses
 (errors included) from scratch.
