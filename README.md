@@ -68,6 +68,9 @@ The steps boil down to:
 Read:
   * [Wikipedia article about DTOs](https://en.wikipedia.org/wiki/Data_transfer_object)
 
+Demo code form the lecture:
+  * [Demo](https://github.com/Cphdat3sem2018s/RestDemo-DTOs)
+
 <!--
 The fetch api is documented
 [here](https://developer.mozilla.org/en/docs/Web/API/Fetch_API).
