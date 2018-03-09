@@ -67,6 +67,10 @@ The steps boil down to:
 
 Read:
   * [Wikipedia article about DTOs](https://en.wikipedia.org/wiki/Data_transfer_object)
+  * [Jersey user-guide for jax resources](https://jersey.github.io/documentation/latest/jaxrs-resources.html) (Added after lecture)  
+    We use 3.1 - 3.3, except 3.3 about sub-resources.  
+    3.4 about life-cycle may be nice to know, but not strictly necessary fo
+    rour purposes.
 
 Demo code form the lecture:
   * [Demo](https://github.com/Cphdat3sem2018s/RestDemo-DTOs)
